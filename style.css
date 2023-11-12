@@ -1,0 +1,14 @@
+* {
+    background-image: url(premium_photo-1673548917645-e8d9ed21e2b2.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.nav {
+    text-align: right;
+}
+nav ul li {
+    display: inline;
+    margin-left: 20px;
